@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>ionic</groupId>
 	<artifactId>Just-Jokes</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>Just-Jokes</name>
 	<description>A Joke Generator Appliaction</description>
 	<properties>
@@ -63,6 +63,6 @@
 	</build>
 	<scm>
 		<developerConnection>scm:git:git@github.com:Sauravionic/Just-Jokes.git</developerConnection>
-		<tag>Just-Jokes-0.0.1</tag>
+		<tag>HEAD</tag>
 	</scm>
 </project>
