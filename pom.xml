@@ -62,5 +62,8 @@
 			</plugins>
 		</pluginManagement>
 	</build>
-
+	<scm>
+		<developerConnection>scm:git:git@github.com:Sauravionic/Just-Jokes.git</developerConnection>
+		<tag>HEAD</tag>
+	</scm>
 </project>
